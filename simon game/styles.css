@@ -1,0 +1,35 @@
+body{
+  background-color: #480032;
+}
+.heading{
+  font-family: 'Press Start 2P', cursive;
+  color: #FF3796;
+}
+.button{
+  width: 210px;
+  height: 220px;
+  border-radius: 20%;
+  border: solid 10px black;
+}
+.green{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.pressed{
+  opacity: 0.5;
+}
+.userPressed{
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.game-over{
+  background-color: red;
+}
